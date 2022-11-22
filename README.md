@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Yuttasak</h1>
-<h4 align="center">a freelance Frontend developer and Mobile Developer</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Noppharat Dev</h1>
+<h4 align="center">a Fullstack developer</h4>
 </div>
 
 <div align="center">
@@ -9,14 +9,14 @@
        alt="snake" /></a>
 </div>
 
- <div>
+ <!-- <div>
   <h2 align="center"> 😎 About Me</h2>
   <p align="center">
   I'm Working about Web Development position Frontend Developer
     <br/>
   I'm studying in mobile dev with flutter and dart
   </p>
- </div>
+ </div> -->
 
   <div>
     <h2 align="center"> 📊 Github stats </h2>
